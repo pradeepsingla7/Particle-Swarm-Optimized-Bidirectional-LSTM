@@ -1,0 +1,33 @@
+# MATLAB generated files
+*.asv
+*.m~
+*.mlx.autosave
+*.fig~
+*.mat~
+*.mex*
+*.log
+*.tmp
+
+# MATLAB autosave and backup
+autosave/
+slprj/
+codegen/
+resources/project/
+
+# Simulink files
+*.slxc
+*.sldd
+*.slreqx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python (if using)
+__pycache__/
+*.pyc
+
+# Large datasets (optional, remove if uploading data)
+*.h5
+*.zip
+*.tar
